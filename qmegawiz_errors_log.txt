@@ -1,0 +1,10 @@
+
+
+C:/Users/Vladislav&Maja/Downloads/DE0-Nano_v.1.2.2_SystemCD/Demonstration/DE0_NANO_ADC/SPIPLL.v
+
+Mar 19 08PM:35:54>: Error in CNX file format.
+
+Error messages are listed in file
+C:/Users/Vladislav&Maja/Downloads/DE0-Nano_v.1.2.2_SystemCD/Demonstration/DE0_NANO_ADC/SPIPLL.cnxerr.
+
+Can't create the custom megafunction variation file(s)
